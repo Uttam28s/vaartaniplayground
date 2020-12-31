@@ -1,0 +1,106 @@
+.vaartani-playground-card-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.bg-primary {
+  background-color: #145c9e !important;
+  color: #f6fbff !important;
+}
+
+.bg-secondary {
+  background-color: #8a8a8a !important;
+  color: #f6fbff !important;
+}
+.bg-success {
+  color: #f6fbff !important;
+  background-color: #24be5c !important;
+}
+
+.bg-danger {
+  color: #f6fbff !important;
+  background-color: #ec0c24 !important;
+}
+
+.bg-warning {
+  color: #f6fbff !important;
+  background-color: #ffa800 !important;
+}
+
+.bg-info {
+  color: #f6fbff !important;
+  background-color: #369efb !important;
+}
+
+.bg-light {
+  color: #333333 !important;
+  background-color: #dcdcdc !important;
+}
+
+.bg-dark {
+  color: #f6fbff !important;
+  background-color: #333333 !important;
+}
+
+.bg-primary .text-muted {
+  color: #f6fbff !important;
+}
+
+.bg-secondary .text-muted {
+  color: #f6fbff !important;
+}
+.bg-success .text-muted {
+  color: #f6fbff !important;
+}
+
+.bg-danger .text-muted {
+  color: #f6fbff !important;
+}
+
+.bg-warning .text-muted {
+  color: #f6fbff !important;
+}
+
+.bg-info .text-muted {
+  color: #f6fbff !important;
+}
+
+.bg-light .text-muted {
+  color: #333333 !important;
+}
+
+.bg-dark .text-muted {
+  color: #f6fbff !important;
+}
+
+.border-primary {
+  border-color: #145c9e !important;
+}
+
+.border-secondary {
+  border-color: #8a8a8a !important;
+}
+.border-success {
+  border-color: #24be5c !important;
+}
+
+.border-danger {
+  border-color: #ec0c24 !important;
+}
+
+.border-warning {
+  border-color: #ffa800 !important;
+}
+
+.border-info {
+  border-color: #369efb !important;
+}
+
+.border-light {
+  border-color: #dcdcdc !important;
+}
+
+.border-dark {
+  border-color: #333333 !important;
+}

@@ -1,0 +1,42 @@
+.list-group button {
+  margin-left: 0;
+}
+
+.list-group-item-primary {
+  background-color: #145c9e !important;
+  color: #f6fbff !important;
+}
+
+.list-group-item-secondary {
+  background-color: #8a8a8a !important;
+  color: #f6fbff !important;
+}
+.list-group-item-success {
+  color: #f6fbff !important;
+  background-color: #24be5c !important;
+}
+
+.list-group-item-danger {
+  color: #f6fbff !important;
+  background-color: #ec0c24 !important;
+}
+
+.list-group-item-warning {
+  color: #f6fbff !important;
+  background-color: #ffa800 !important;
+}
+
+.list-group-item-info {
+  color: #f6fbff !important;
+  background-color: #369efb !important;
+}
+
+.list-group-item-light {
+  color: #333333 !important;
+  background-color: #dcdcdc !important;
+}
+
+.list-group-item-dark {
+  color: #f6fbff !important;
+  background-color: #333333 !important;
+}

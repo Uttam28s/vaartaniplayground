@@ -1,0 +1,55 @@
+/* @import "~bootstrap/scss/bootstrap"; */
+
+.center-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.alert-default {
+  width: 40%;
+}
+
+.sb-show-main .sb-main-padded {
+  height: 100vh;
+}
+
+.alert-primary {
+  background-color: #145c9e !important;
+  color: #f6fbff !important;
+}
+
+.alert-secondary {
+  background-color: #8a8a8a !important;
+  color: #f6fbff !important;
+}
+.alert-success {
+  color: #f6fbff !important;
+  background-color: #24be5c !important;
+}
+
+.alert-danger {
+  color: #f6fbff !important;
+  background-color: #ec0c24 !important;
+}
+
+.alert-warning {
+  color: #f6fbff !important;
+  background-color: #ffa800 !important;
+}
+
+.alert-info {
+  color: #f6fbff !important;
+  background-color: #369efb !important;
+}
+
+.alert-light {
+  color: #333333 !important;
+  background-color: #dcdcdc !important;
+}
+
+.alert-dark {
+  color: #f6fbff !important;
+  background-color: #333333 !important;
+}

@@ -1,0 +1,8 @@
+.vartani-playground-button-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.vartani-playground-toolbar-button {
+  margin-top: 38px;
+}

@@ -1,0 +1,34 @@
+.text-primary {
+  color: #145c9e !important;
+}
+
+.text-secondary {
+  color: #8a8a8a !important;
+}
+.text-success {
+  color: #24be5c !important;
+}
+
+.text-danger {
+  color: #ec0c24 !important;
+}
+
+.text-warning {
+  color: #ffa800 !important;
+}
+
+.text-info {
+  color: #369efb !important;
+}
+
+.text-light {
+  color: #dcdcdc !important;
+}
+
+.text-dark {
+  color: #333333 !important;
+}
+
+.storybook-button-spinner {
+  margin-right: 20px;
+}

@@ -1,0 +1,51 @@
+.storybook-badge--small {
+  font-size: 12px;
+  padding: 10px 12px;
+}
+.storybook-badge--medium {
+  font-size: 16px;
+  padding: 14px 16px;
+}
+.storybook-badge--large {
+  font-size: 20px;
+  padding: 16px 20px;
+}
+
+.badge-primary {
+  background-color: #145c9e !important;
+  color: #f6fbff !important;
+}
+
+.badge-secondary {
+  background-color: #8a8a8a !important;
+  color: #f6fbff !important;
+}
+.badge-success {
+  color: #f6fbff !important;
+  background-color: #24be5c !important;
+}
+
+.badge-danger {
+  color: #f6fbff !important;
+  background-color: #ec0c24 !important;
+}
+
+.badge-warning {
+  color: #f6fbff !important;
+  background-color: #ffa800 !important;
+}
+
+.badge-info {
+  color: #f6fbff !important;
+  background-color: #369efb !important;
+}
+
+.badge-light {
+  color: #333333 !important;
+  background-color: #dcdcdc !important;
+}
+
+.badge-dark {
+  color: #f6fbff !important;
+  background-color: #333333 !important;
+}

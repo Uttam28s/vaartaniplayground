@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { SimpleButton } from "./stories/Component/Button/Button";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <SimpleButton variant="success" size="small" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
