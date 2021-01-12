@@ -1,0 +1,187 @@
+.vaartani-playground-card-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.MuiSwitch-switchBase-primary .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #145c9e !important;
+}
+
+.MuiSwitch-switchBase-secondary .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #8a8a8a !important;
+}
+.MuiSwitch-switchBase-success .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #24be5c !important;
+}
+
+.MuiSwitch-switchBase-danger .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #ec0c24 !important;
+}
+
+.MuiSwitch-switchBase-warning .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #ffa800 !important;
+}
+
+.MuiSwitch-switchBase-info .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #369efb !important;
+}
+
+.MuiSwitch-switchBase-light .MuiSwitch-switchBase.Mui-checked {
+  /* color: #333333 !important; */
+  color: #dcdcdc !important;
+}
+
+.MuiSwitch-switchBase-dark .MuiSwitch-switchBase.Mui-checked {
+  /* color: #f6fbff !important; */
+  color: #333333 !important;
+}
+
+.MuiSwitch-switchBase-primary .MuiSwitch-switchBase.Mui-checked:hover {
+  /* color: #f6fbff !important; */
+  background-color: #145c9e1a !important;
+}
+
+.MuiSwitch-switchBase-secondary .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #8a8a8a1a !important;
+}
+.MuiSwitch-switchBase-success .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #24be5c1a !important;
+}
+
+.MuiSwitch-switchBase-danger .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #ec0c241a !important;
+}
+
+.MuiSwitch-switchBase-warning .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #ffa8001a !important;
+}
+
+.MuiSwitch-switchBase-info .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #369efb1a !important;
+}
+
+.MuiSwitch-switchBase-light .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #333333 !important; */
+  background-color: #dcdcdc1a !important;
+}
+
+.MuiSwitch-switchBase-dark .MuiSwitch-switchBase.Mui-checked:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #3333331a !important;
+}
+
+.MuiSwitch-switchBase-primary
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* color: #f6fbff !important; */
+  background-color: #145c9e9c !important;
+}
+
+.MuiSwitch-switchBase-secondary
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #8a8a8a9c !important;
+}
+.MuiSwitch-switchBase-success
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #24be5c9c !important;
+}
+
+.MuiSwitch-switchBase-danger
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #ec0c249c !important;
+}
+
+.MuiSwitch-switchBase-warning
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #ffa8009c !important;
+}
+
+.MuiSwitch-switchBase-info
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #369efb9c !important;
+}
+
+.MuiSwitch-switchBase-light
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #333333 !important; */
+  background-color: #dcdcdc9c !important;
+}
+
+.MuiSwitch-switchBase-dark
+  .MuiSwitch-switchBase.Mui-checked
+  + .MuiSwitch-track {
+  /* background-color: #f6fbff !important; */
+  background-color: #3333339c !important;
+}
+
+.MuiSwitch-large-primary-checked + .MuiSwitch-large-primary-track {
+  background-color: #145c9e32 !important;
+}
+.MuiSwitch-large-primary-checked {
+  color: #145c9e !important;
+}
+.MuiSwitch-large-secondary-checked + .MuiSwitch-large-secondary-track {
+  background-color: #8a8a8a32 !important;
+}
+.MuiSwitch-large-secondary-checked {
+  color: #8a8a8a !important;
+}
+.MuiSwitch-large-success-checked + .MuiSwitch-large-success-track {
+  background-color: #24be5c32 !important;
+}
+.MuiSwitch-large-success-checked {
+  color: #24be5c !important;
+}
+.MuiSwitch-large-danger-checked + .MuiSwitch-large-danger-track {
+  background-color: #ec0c2432 !important;
+}
+.MuiSwitch-large-danger-checked {
+  color: #ec0c24 !important;
+}
+.MuiSwitch-large-warning-checked + .MuiSwitch-large-warning-track {
+  background-color: #ffa80032 !important;
+}
+.MuiSwitch-large-warning-checked {
+  color: #ffa800 !important;
+}
+.MuiSwitch-large-info-checked + .MuiSwitch-large-info-track {
+  background-color: #369efb32 !important;
+}
+.MuiSwitch-large-info-checked {
+  color: #369efb !important;
+}
+.MuiSwitch-large-light-checked + .MuiSwitch-large-light-track {
+  background-color: #dcdcdc32 !important;
+}
+.MuiSwitch-large-light-checked {
+  color: #dcdcdc !important;
+}
+.MuiSwitch-large-dark-checked + .MuiSwitch-large-dark-track {
+  background-color: #33333332 !important;
+}
+.MuiSwitch-large-dark-checked {
+  color: #333333 !important;
+}

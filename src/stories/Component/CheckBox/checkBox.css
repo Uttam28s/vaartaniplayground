@@ -1,0 +1,83 @@
+.vaartani-playground-card-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.Mui-checked-primary {
+  /* color: #f6fbff !important; */
+  color: #145c9e !important;
+}
+
+.Mui-checked-secondary {
+  /* color: #f6fbff !important; */
+  color: #8a8a8a !important;
+}
+.Mui-checked-success {
+  /* color: #f6fbff !important; */
+  color: #24be5c !important;
+}
+
+.Mui-checked-danger {
+  /* color: #f6fbff !important; */
+  color: #ec0c24 !important;
+}
+
+.Mui-checked-warning {
+  /* color: #f6fbff !important; */
+  color: #ffa800 !important;
+}
+
+.Mui-checked-info {
+  /* color: #f6fbff !important; */
+  color: #369efb !important;
+}
+
+.Mui-checked-light {
+  /* color: #333333 !important; */
+  color: #dcdcdc !important;
+}
+
+.Mui-checked-dark {
+  /* color: #f6fbff !important; */
+  color: #333333 !important;
+}
+
+.Mui-checked-primary:hover {
+  /* color: #f6fbff !important; */
+  background-color: #145c9e1a !important;
+}
+
+.Mui-checked-secondary:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #8a8a8a1a !important;
+}
+.Mui-checked-success:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #24be5c1a !important;
+}
+
+.Mui-checked-danger:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #ec0c241a !important;
+}
+
+.Mui-checked-warning:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #ffa8001a !important;
+}
+
+.Mui-checked-info:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #369efb1a !important;
+}
+
+.Mui-checked-light:hover {
+  /* background-color: #333333 !important; */
+  background-color: #dcdcdc1a !important;
+}
+
+.Mui-checked-dark:hover {
+  /* background-color: #f6fbff !important; */
+  background-color: #3333331a !important;
+}
